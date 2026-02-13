@@ -183,21 +183,18 @@ html, body {
 }
 
 #flat .line-break1 {
-  height: 220px;
   background: linear-gradient(60deg, #057178, #1F4354, #23232D);
   width: 100%;
   margin: 0 auto;
 }
 
 #flat .line-break2 {
-  height: 220px;
   background: linear-gradient(60deg, #1F4354, #23232D, #057178);
   width: 100%;
   margin: 0 auto;
 }
 
 #flat .line-break3 {
-  height: 220px;
   background: linear-gradient(60deg, #23232D, #057178, #1F4354);
   width: 100%;
   margin: 0 auto;
