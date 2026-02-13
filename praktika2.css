@@ -183,19 +183,19 @@ html, body {
 }
 
 #flat .line-break1 {
-  background: linear-gradient(60deg, #800000, #CD5C5C, #FF7F50);
+  background: linear-gradient(60deg, #057178, #1F4354, #23232D);
   width: 100%;
   margin: 0 auto;
 }
 
 #flat .line-break2 {
-  background: linear-gradient(60deg, #CD5C5C, #FF7F50, #800000);
+  background: linear-gradient(60deg, #057178, #1F4354, #23232D);
   width: 100%;
   margin: 0 auto;
 }
 
 #flat .line-break3 {
-  background: linear-gradient(60deg, #FF7F50, #800000, #CD5C5C);
+  background: linear-gradient(60deg, #057178, #1F4354, #23232D);
   width: 100%;
   margin: 0 auto;
 }
