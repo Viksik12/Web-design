@@ -199,12 +199,20 @@ html, body {
   width: 100%;
   margin: 0 auto;
   }
+
+@media screen and (max-width: 959px) and (min-width: 768px) {
+  #flat .block {
+    padding: 40px;
+    width: 620px;
+  }
 }
+
 @media screen and (max-width: 767px) {
   #flat .block {
     padding: 30px;
     width: 420px;
   }
+  
   #flat h2 {
     font-size: 30px;
   }
@@ -217,6 +225,12 @@ html, body {
   }
 }
 
+@media screen and (max-width: 479px) {
+  #flat .block {
+    padding: 30px 15px;
+    width: 290px;
+  }
+}
 @media screen and (max-width: 479px) {
   #flat .block {
     padding: 30px 15px;
