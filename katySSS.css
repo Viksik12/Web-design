@@ -148,7 +148,7 @@ width: 95%;
 }
 .loader {
 
-  width: 121px !important;
+  width: 110px !important;
 
 }
 .loader2 {
@@ -256,13 +256,13 @@ width: 95%;
 #menu-overlay {
 
   position: absolute;
-  height: 0%;
+  height: 0;
   width: 95%;
   background: url("https://raw.githubusercontent.com/Viksik12/Web-design/refs/heads/main/katyxa_2.png");
   left: 0;
   top: 0;
   transition: .5s ease-in;
-  z-index: 3000;
+  z-index: 2000;
 
 }
 .reveal {
@@ -324,7 +324,7 @@ width: 95%;
 
 text-decoration: none;
   font-family: 'Montserrat', serif;
-  font-size: 50px;
+  font-size: 25px;
   line-height: 28px;
   color: #000000;
   transition: .3s ease-in-out;
