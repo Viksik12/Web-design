@@ -82,7 +82,7 @@ nav a:hover {
 
 nav a.active {
 	opacity: 1;
-	color: #ff0055;
+	color: #9000ff;
 	text-shadow: 0 0 15px rgba(255, 0, 85, 0.4);
 }
 
@@ -94,7 +94,7 @@ nav a.active::after {
 	transform: translateX(-50%);
 	width: 4px;
 	height: 4px;
-	background: #ff0055;
+	background: #9000ff;
 	border-radius: 50%;
 	box-shadow: 0 0 8px rgba(255, 0, 85, 0.8);
 }
@@ -126,7 +126,7 @@ nav a.active::after {
 	display: block;
 	width: 40px;
 	height: 2px;
-	background: #ff0055;
+	background: #9000ff;
 }
 
 h1.text-title {
