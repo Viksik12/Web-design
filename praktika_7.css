@@ -118,6 +118,7 @@ nav a.active::after {
 	gap: 15px;
 	opacity: 0.9;
 	font-weight: 500;
+	color: #000000;
 }
 
 .text-subtitle::before {
@@ -138,6 +139,7 @@ h1.text-title {
 	background: none;
 	-webkit-text-fill-color: initial;
 	text-shadow: 0 10px 30px rgba(0, 0, 0, 0.5);
+	color: #000000;
 }
 
 .text-desk {
@@ -150,6 +152,7 @@ h1.text-title {
 	padding-left: 0;
 	font-weight: 300;
 	text-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+	color: #000000;
 }
 footer {
 	display: flex;
@@ -166,6 +169,7 @@ footer {
 	opacity: 0.8;
 	display: flex;
 	align-items: center;
+	color: #000000;
 }
 
 .footer-right::before {
